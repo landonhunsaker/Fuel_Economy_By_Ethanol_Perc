@@ -1,0 +1,36 @@
+Timestamp,Cost,Currency,Amount of fuel,Units,Mileage,Octane,Ethanol %,Station,Notes
+2/11/2020 8:54:30,70.41,CAD,49.617,Liters,199.4,87,10,Costco Poco,
+2/11/2020 9:01:41,47.19,CAD,35.511,Liters,118.4,87,10,Costco Poco,
+2/16/2020 5:51:23,56.88,USD,15.983,Gallons,306.5,87,10,Chevron Seattle ,
+2/18/2020 8:59:04,51.27,CAD,37.182,Liters,199,87,10,Costco Poco,
+2/25/2020 12:28:58,55.03,CAD,38.511,Liters,155.6,87,10,Costco Poco,
+3/3/2020 9:04:11,76.28,CAD,55.72,Liters,247.8,87,10,Costco Poco,
+3/10/2020 9:03:15,71.37,CAD,54.944,Liters,243.9,87,10,Costco Poco,
+3/15/2020 7:39:47,31.88,USD,12.548,Gallons,172.3,87,10,Costco Bellingham WA,
+3/15/2020 11:48:47,48.12,USD,17.884,Gallons,236.7,87,10,Chevron and Shree,"Pulling a fully loaded trailer, two gas stations"
+3/15/2020 14:05:37,30.78,USD,12.315,Gallons,140.9,87,10,Cenex Spokane WA,"Pulling a fully loaded trailer, inflated tire"
+3/15/2020 17:02:34,34.81,USD,15.147,Gallons,183.8,87,0,Mobil Missoula MT,Pulling a fully loaded trailer
+3/15/2020 19:19:46,28.64,USD,12.513,Gallons,148.7,87,10,Exxon town pump Whitehall MT,Pulling a fully loaded trailer 
+3/16/2020 9:02:35,36.81,USD,16.013,Gallons,204.8,87,10,Conoco laurel montana,Pulling a fully loaded trailer 
+3/16/2020 11:23:28,33.13,USD,14.225,Gallons,162.9,87,10,Cenex miles city MT,Pulling a fully loaded trailer 
+3/16/2020 16:46:43,32.93,USD,13.784,Gallons,197.5,87,0,Shell Jamestown ND,Pulling a fully loaded trailer 
+3/17/2020 8:04:15,13.06,USD,7.023,Gallons,106.9,87,10,Costco Fargo ND,Pulling a fully loaded trailer 
+6/9/2020 7:49:07,22.61,USD,12.929,Liters,239.9,87,10,Costco Fargo,
+6/16/2020 7:55:17,24.12,USD,13.634,Gallons,300.5,87,10,Costco Fargo,
+6/23/2020 7:55:56,24.18,USD,12.407,Gallons,296.8,87,10,Costco Fargo,
+6/30/2020 7:47:33,29.78,USD,14.895,Gallons,331.2,87,10,Costco Fargo,
+7/5/2020 9:12:16,28.38,USD,13.519,Gallons,289,87,10,Simonson Alexandria MN,
+7/5/2020 9:14:46,21.08,USD,9.588,Gallons,192.5,87,0,Holiday Owatonna MN,Fully loaded car
+7/6/2020 4:58:44,21.08,USD,9.588,Gallons,192.5,87,0,Holiday Owatonna MN,Fully loaded car
+7/17/2020 16:00:10,32.17,USD,12.874,Gallons,228,87,0,SwiftStop Ames,
+7/18/2020 4:54:52,32.17,USD,12.874,Gallons,228,87,0,SwiftStop Ames,
+8/7/2020 7:52:00,27.22,USD,10.936,Gallons,239.5,87,,Swift stop ames,
+8/7/2020 14:53:12,29.13,USD,14.572,Gallons,341.1,87,10,Costco Brainerd,
+8/7/2020 18:55:47,29.13,USD,14.572,Gallons,341.1,87,10,Costco Brainerd,
+8/12/2020 16:07:15,27.22,USD,10.936,Gallons,239.5,87,,Swift stop ames,
+8/13/2020 14:20:55,22.41,USD,11.679,Gallons,234.4,87,0,Holiday Maple Grove Mn,
+8/19/2020 4:54:32,35.43,USD,16.565,Gallons,292.3,87,10,Swift stop Ames ia,
+9/16/2020 8:58:43,21.66,USD,12.017,Gallons,234.2,87,10,Costco Des Moines,
+9/18/2020 16:32:25,20.24,USD,9.645,Gallons,225.8,87,0,Flying j faribault mn ,
+9/20/2020 11:44:58,37.56,USD,17.079,Gallons,324,87,0,Minnoco Tobies Hinkley MN,
+9/20/2020 16:19:18,23.42,USD,10.652,Gallons,196.4,87,10,Kum & Go Lake Mills IA,
